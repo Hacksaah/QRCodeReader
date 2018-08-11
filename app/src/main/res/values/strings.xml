@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">QR Code Reader</string>
+    <string name="profile_string">View your profile</string>
+    <string name="scanner_string">Scan a QR code</string>
+    <string name="settings_string">Change your settings</string>
+    <string name="website_string">Check out our website</string>
 </resources>
